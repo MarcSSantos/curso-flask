@@ -1,6 +1,7 @@
 README.md
 setup.py
 delivery/__init__.py
+delivery/__main__.py
 delivery/app.py
 delivery.egg-info/PKG-INFO
 delivery.egg-info/SOURCES.txt
